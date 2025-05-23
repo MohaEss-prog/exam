@@ -1,5 +1,5 @@
-import static org.junit.jupiter.api.Assertions.*;
-import org.junit.jupiter.api.Test;
+import static org.junit.Assertions.*;
+import org.junit.jupiter..Test;
 
 public class CalculatriceTest {
 
